@@ -14,8 +14,12 @@ A Python-based website for analyzing stocks listed on the Vietnamese stock marke
 ## Technologies
 
 - Python
-- Streamlit
-- pandas, NumPy, SciPy
+- Jupyter Notebook
+- pandas
+- NumPy
+- SciPy
+- Lets-Plot
+- scikit-learn
 
 ## Project Status
 
