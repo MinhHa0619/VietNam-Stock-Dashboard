@@ -26,4 +26,4 @@ A Python-based website for analyzing stocks listed on the Vietnamese stock marke
 Under development.
 
 ## Additional Source/files
-Market data is from VN-index, Wharton Research Data Services. "WRDS" wrds.wharton.upenn.edu, accessed 2026-11-26.
+Market data is in the VN-index file, taken from Wharton Research Data Services. "WRDS" wrds.wharton.upenn.edu, accessed 2026-11-26.
